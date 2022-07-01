@@ -171,7 +171,7 @@ html {
 .social-header,
 .self-care-header {
   background-color: hsl(15, 100%, 70%);
-  background-image: url(./images/icon-work.svg);
+  background-image: url("../images/icon-work.svg");
   background-position: 95% -5px;
   background-repeat: no-repeat;
   background-size: auto;
