@@ -181,27 +181,27 @@ html {
 
 .play-header {
   background-color: hsl(195, 74%, 62%);
-  background-image: url(../images/icon-play.svg);
+  background-image: url("../images/icon-play.svg");
 }
 
 .study-header {
   background-color: hsl(348, 100%, 68%);
-  background-image: url(../images/icon-study.svg);
+  background-image: url("../images/icon-study.svg");
 }
 
 .exercise-header {
   background-color: hsl(145, 58%, 55%);
-  background-image: url(../images/icon-exercise.svg);
+  background-image: url("../images/icon-exercise.svg");
 }
 
 .social-header {
   background-color: hsl(264, 64%, 52%);
-  background-image: url(../images/icon-social.svg);
+  background-image: url("../images/icon-social.svg");
 }
 
 .self-care-header {
   background-color: hsl(43, 84%, 65%);
-  background-image: url(../images/icon-self-care.svg);
+  background-image: url("../images/icon-self-care.svg");
 }
 
 .category-details {
